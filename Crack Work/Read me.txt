@@ -1,0 +1,2 @@
+Incase you delete the dataset you can create will running CreateDataset.py.
+Before running update the paths
